@@ -1,4 +1,3 @@
-import { string } from "yup";
 import { GithubRepoDTO } from "../../interfaces/github/githubRepo.dto";
 import { GitHubUserDTO } from "../../interfaces/github/githubUser.dto";
 import { IApi } from "../lib/api";
