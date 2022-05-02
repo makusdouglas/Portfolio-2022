@@ -1,4 +1,4 @@
-## This project
+## Portolio (in progress)
 This project is a personal page about me, maded with __Nextjs__ and __Typescript__, hosted in vercel.  
 [Visite in](https://portfolio-2022-jet.vercel.app/)
 
